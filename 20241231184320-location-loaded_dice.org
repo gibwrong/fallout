@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       fa04461d-8ff2-4635-a8bc-eb9d64dd0ebf
+:END:
+#+title: Loaded Dice
+#+filetags: :location:fallout:
+* Info
+Casino in [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]]
+* Characters

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c5b3a2b7-b2af-4d24-9d0c-5e7ec9f05d2b
+:END:
+#+title: "Big" Grady Masters
+#+filetags: :npc:fallout:
+* Info
+- name: Grady Henderson
+- pronouns: he
+- race: human
+
+* Background
+A very large man who runs the [[id:fa04461d-8ff2-4635-a8bc-eb9d64dd0ebf][Loaded Dice]].
+
+* Personality
+- voice
+
+* Relationships
+Has almost as much power in [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]] as [[id:0f226c47-f81c-4685-ab6f-2dd0f0a3b442][Mayor Francine Galloway]]
