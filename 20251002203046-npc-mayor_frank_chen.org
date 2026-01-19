@@ -9,7 +9,8 @@
 - race: Human
 
 * Background
-Mayor of [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]]
+Mayor of [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]]. Tries to keep the city together, despite efforts of
+[[id:c5b3a2b7-b2af-4d24-9d0c-5e7ec9f05d2b]["Big" Grady Masters]]
 
 * Personality
 - voice: Ghoul
