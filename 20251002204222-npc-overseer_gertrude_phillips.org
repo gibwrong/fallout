@@ -9,7 +9,6 @@
 - race: Human
 
 * Background
-Raised in the vault, the [[id:f94767a7-b46b-4653-ae6d-e1a1191eac97][ZAX]] chose her to be overseer.
 * Personality
 - voice: Bubbly, exited
 

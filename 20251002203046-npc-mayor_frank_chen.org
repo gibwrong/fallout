@@ -6,11 +6,10 @@
 * Info
 - name: Francine Galloway
 - pronouns: she/her
-- race: Ghoul
+- race: Human
 
 * Background
-Pre-war ghoul. Founded [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]] 50 years ago after traveling from
-Necropolis in California.
+Mayor of [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]]
 
 * Personality
 - voice: Ghoul

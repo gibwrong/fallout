@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       26bf0de7-3d21-499a-a749-9d7d3a09cb66
 :END:
-#+title: Henry "The Hurricane" Phillips
+#+title: Henry "The Hurricane" Smith
 #+filetags: :npc:fallout:
 * Info
-- name: Henry Phillips
+- name: Henry Smith
 - pronouns: he/him
 - race: Human
 
